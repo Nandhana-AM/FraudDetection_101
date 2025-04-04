@@ -1,8 +1,6 @@
 # FraudDetection_101
 This repository encomposes of fraud detection modelling scripts
 
-# Fraud Detection Modelling
-
 A core ML project build to detect the fraudulent transactions using various classical classification algorithms in scale.
 
 ## Overview
